@@ -53,7 +53,7 @@ export function Form() {
               onChange={handleInputChage}
             ></Input>
           </div>
-          <div className="col-12 mt-2 mb-4 w-100">
+          <div className="col-12 mt-3 mb-4 w-100">
             <Input type={"submit"} value={"Submit"}></Input>
           </div>
         </form>
