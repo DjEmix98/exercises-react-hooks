@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.exercise__container {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.exercise__sub-title {
+  margin: 0;
+}
